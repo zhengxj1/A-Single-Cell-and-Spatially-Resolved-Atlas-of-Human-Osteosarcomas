@@ -1,0 +1,11 @@
+ID	Sample	Gender	Age	Treatment	Tumor status
+Patient1	BS1	Male	17	Pre-chemotherapy	Primary
+Patient2	BS2	Female	60	Pre-chemotherapy	Primary
+Patient3	BS3	Female	12	Post-chemotherapy	Primary
+Patient4	BS4	Male	15	Pre-chemotherapy	Primary
+Patient5	BS5	Female	11	Post-chemotherapy	Primary
+Patient6	BS6	Female	57	Pre-chemotherapy	Primary
+Patient7	BS7	Female	67	Post-chemotherapy	Recurrent
+Patient9	BS9	Male	16	Pre-chemotherapy	Primary
+Patient12	BS12	Female	15	Pre-chemotherapy	Primary
+Patient4	BS14	Male	15	Post-chemotherapy	Primary
